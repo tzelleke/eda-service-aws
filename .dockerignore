@@ -1,0 +1,8 @@
+cdk.out/
+.github/
+.env
+.env.example
+.idea/
+.git/
+docker-compose.yml
+Dockerfile
